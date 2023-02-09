@@ -1,0 +1,47 @@
+{
+    "data":[
+        {
+            "customerName":"Austin",
+            "propertyName":"Geller",
+            "propertyId":"RT-1920",
+            "propertyImage":"",
+            "location":"Welsburg",
+            "propertyType":{
+                "name":"Retail",
+                "_id":"123"
+            },
+            "tenure":"8",
+            "carpetArea":"",
+            "transactionType":""
+        },
+        {
+            "customerName":"Georgia",
+            "propertyName":"Haversky",
+            "propertyId":"OP-1399",
+            "propertyImage":"",
+            "location":"Safron falls",
+            "propertyType":{
+                "name":"Office space",
+                "_id":"321"
+            },
+            "tenure":"2",
+            "carpetArea":"",
+            "transactionType":""
+        },
+        {
+            "customerName":"Ginny",
+            "propertyName":"Paul",
+            "propertyId":"RT-1200",
+            "propertyImage":"",
+            "location":"Hawkins",
+            "propertyType":{
+                "name":"Retail",
+                "_id":"123"
+            },
+            "tenure":"1",
+            "carpetArea":"",
+            "transactionType":""
+        }
+
+    ]
+}
