@@ -1,0 +1,41 @@
+.step-bar{
+    max-width: 1400px;
+    margin: 0 auto;
+    .row{
+        width: 100%;
+        align-items: center;
+        .btn-container{
+            width: 20%;
+            .step-btn{
+                padding: 7px 13px;
+                border-radius: 50px;
+                border: none;
+            }
+        }
+        .line{
+            width: 60%;
+            height: 2px;
+            display: flex;
+            align-items: center;
+          
+        }
+        .inactive{
+            color: black;
+            background: rgb(229, 229, 229);
+        }
+        .active{
+            
+        background: linear-gradient(90deg, rgb(3, 65, 104) 50%, rgb(189, 189, 189) 0px);
+        }
+        .completed{
+            color: rgb(255, 255, 255);
+            background: rgb(32, 195, 116);
+        }
+        .btn-active{
+            color: rgb(255, 255, 255);
+            background: rgb(3, 65, 104);
+        }
+    }
+    
+   
+}
